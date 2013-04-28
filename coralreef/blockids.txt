@@ -1,7 +1,0 @@
-#CoralReef Block IDs
-#Sun Apr 14 15:22:43 CDT 2013
-Coral3=180
-Coral2=179
-Coral1=178
-Coral5=176
-Coral4=177

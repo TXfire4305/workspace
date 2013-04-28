@@ -1,9 +1,0 @@
-#CoralReef Settings
-#Sun Apr 14 15:22:43 CDT 2013
-spikyenabled=true
-land=false
-coralgen=true
-enablebubbles=true
-oceanonly=true
-enablegrow=false
-avgsize=1
